@@ -1,0 +1,2 @@
+# prompt_HtmlCard_Design
+用来生成html小卡片的AI提示词
